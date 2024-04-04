@@ -1,1 +1,1 @@
-İlk web sitesi projemi görmektesiniz.
+You are observing my inaugural web development project.
